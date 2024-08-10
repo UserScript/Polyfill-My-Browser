@@ -1,6 +1,6 @@
 import builder from 'core-js-builder'
 
-const bundle = await builder({
+builder({
 	// entry / module / namespace / an array of them, by default - all `core-js` modules
 	modules: [
 		'esnext.array.to-sorted',
@@ -8,7 +8,7 @@ const bundle = await builder({
 	// a blacklist of entries / modules / namespaces, by default - empty list
 	exclude: [],
 	// optional browserslist or core-js-compat format query
-	// targets: 'chrome 99',
+	targets: 'Chrome >= 99',
 	// shows summary for the bundle, disabled by default
 	summary: {
 		// in the console, you could specify required parts or set `true` for enable all of them
