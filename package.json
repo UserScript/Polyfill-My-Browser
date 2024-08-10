@@ -1,0 +1,6 @@
+{
+	"name": "userscript-polyfill-my-browser",
+	"devDependencies": {
+		"core-js-builder": "^3.38.0"
+	}
+}
