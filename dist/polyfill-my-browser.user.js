@@ -14,3 +14,5 @@
 // @match           https://chatgpt.com/*
 // @require         https://raw.githubusercontent.com/UserScript/Polyfill-My-Browser/master/dist/polyfill.js
 // ==/UserScript==
+
+console.log('[Polyfill-My-Browser] Loaded.')
