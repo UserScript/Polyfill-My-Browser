@@ -4,7 +4,7 @@
 // @author          cssmagic
 // @namespace       https://github.com/UserScript
 // @homepage        https://github.com/UserScript/Polyfill-My-Browser
-// @description     Fill forms rapidly.
+// @description     Inject polyfill for ChatGPT.
 // @downloadURL     https://raw.githubusercontent.com/UserScript/Polyfill-My-Browser/master/dist/polyfill-my-browser.user.js
 // @updateURL       https://raw.githubusercontent.com/UserScript/Polyfill-My-Browser/master/src/meta.js
 // @icon            https://chatgpt.com/favicon.ico
