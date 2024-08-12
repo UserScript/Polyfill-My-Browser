@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Polyfill-My-Browser
-// @version         0.1.0
+// @version         0.1.1
 // @author          cssmagic
 // @namespace       https://github.com/UserScript
 // @homepage        https://github.com/UserScript/Polyfill-My-Browser
@@ -12,5 +12,6 @@
 // @noframes
 // @run-at          document-start
 // @match           https://chatgpt.com/*
+// @match           https://www.cssmagic.net/lab/userscript-polyfill/
 // @require         https://raw.githubusercontent.com/UserScript/Polyfill-My-Browser/master/dist/polyfill.js
 // ==/UserScript==
